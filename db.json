@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Mayank",
+      "age": "18",
+      "place": "Almora",
+      "batch": "WEB-13",
+      "profession": "Backend",
+      "id": 1
+    },
+    {
+      "name": "Lucifer",
+      "age": "10000000",
+      "place": "Hell",
+      "batch": "WEB-14",
+      "profession": "FSD",
+      "id": 3
+    },
+    {
+      "name": "XYZ",
+      "age": "32",
+      "place": "sdjlkf",
+      "batch": "WEB-13",
+      "profession": "FSD",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "age": "32",
+      "place": "xyz",
+      "batch": "WEB-15",
+      "profession": "Student",
+      "id": 8
+    }
+  ]
+}
